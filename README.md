@@ -1,5 +1,6 @@
 # Unpacking-with-Dictionaries 
 Unpacking dictionaries is the opposite of packing them. It can be used if you have an existing dictionary that you would like to send to a function.
+
 <br>Consider this code:</br>
 ```python
 teacher = {
